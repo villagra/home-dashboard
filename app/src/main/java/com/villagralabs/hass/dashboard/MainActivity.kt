@@ -11,6 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.villagralabs.hass.api.HassApi
 import com.villagralabs.hass.dashboard.ui.components.Clock
 import com.villagralabs.hass.dashboard.ui.theme.Black100
 import com.villagralabs.hass.dashboard.ui.theme.HomeDashboardTheme

@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Home Dashboard"
 include(":app")
+include(":api")
